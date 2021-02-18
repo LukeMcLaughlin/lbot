@@ -1,0 +1,16 @@
+{
+    "name": "lbot",
+    "version": "0.0.1",
+    "description": "Discord Bot Test",
+    "main": "lbot.js",
+    "author": "LMc",
+    "repository":{
+        "type": "git",
+        "url": "https://github.com/LukeMcLaughlin/lbot"
+    },
+    "license":"GNU General Public License v3.0",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.3.3"
+    }
+}
